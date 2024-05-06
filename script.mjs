@@ -97,16 +97,16 @@ console.log((62.85714285714286) * 1600);
 
 // The scientists decided not to listen to your recommendations, and have instead started with 100 plants in the original 5-meter-radius garden. Use try and catch to wrap your work in an error-handling block. If the amount of space required to hold the originally provided number of plants exceeds the amount of space available, throw a new error and log an appropriate message.
 
-let x = 10;
+// let x = 10;
 
-try {
-	if (x < 0) {
-		console.log("Negative!");
-	} else {
-		throw "Error - I don't know what I'm doing.";
-	}
-} catch (error) {
-	console.log(error);
-}
+// try {
+// 	if (x < 0) {
+// 		console.log("Negative!");
+// 	} else {
+// 		throw "Error - I don't know what I'm doing.";
+// 	}
+// } catch (error) {
+// 	console.log(error);
+// }
 
-console.log("Does this log?");
+// console.log("Does this log?");
